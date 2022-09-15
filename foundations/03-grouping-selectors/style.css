@@ -1,0 +1,14 @@
+.colorful {
+    background-color: rgb(239, 255, 16);
+    color: rgb(34, 23, 58);
+}
+
+.not-so-colorful {
+    background-color: rgb(91, 104, 109);
+}
+
+.colorful,
+.not-so-colorful {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
